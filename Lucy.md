@@ -1,5 +1,5 @@
 # Lucy
-Lucy is a fully customizable intelligent (voice) assistant shortcut. By integrating with other shortcuts, you can freely combine different functions for Lucy to help you handle a variety of daily tasks.
+Lucy is a fully customizable intelligent (voice) assistant Shortcut. By integrating with other Shortcuts, you can freely equip Lucy with various functionalities to assist you with your daily tasks.
 
 Lucy 是一个功能完全自定义的智能（语音）助手捷径，通过联动其他捷径，你可以为 Lucy 自由组合出不同的功能，协助你完成日常的各种工作。
 
