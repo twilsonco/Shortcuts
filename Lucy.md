@@ -5,8 +5,8 @@ Lucy 是一个功能完全自定义的智能（语音）助手捷径，通过联
 
 | Name | Language | Manual | Download | Required Apps | 
 | ---- | ---- | ---- | ---- | ---- |
-| Lucy | English | [Manual](https://neurogram.notion.site/Lucy-3436b58b7edd4368bcfe0ced41006a10) | [Install](https://www.icloud.com/shortcuts/1f61d5a022ff42b58d9adde96e763540) | [Actions](https://apps.apple.com/app/actions/id1586435171) |
-| Lucy | 简体中文 | [手册](https://neurogram.notion.site/Lucy-8492b0a0ff73481ba1a8d5a922cbd490) | [安装](https://www.icloud.com/shortcuts/ad2efe092fea4f4ca2435756e2bc363d) | [Actions](https://apps.apple.com/app/actions/id1586435171) |
+| Lucy | English | [Manual](https://neurogram.notion.site/Lucy-3436b58b7edd4368bcfe0ced41006a10) | [Install](https://www.icloud.com/shortcuts/fb1e1f6129a54e10b5f68de970644e15) | [Actions](https://apps.apple.com/app/actions/id1586435171) |
+| Lucy | 简体中文 | [手册](https://neurogram.notion.site/Lucy-8492b0a0ff73481ba1a8d5a922cbd490) | [安装](https://www.icloud.com/shortcuts/4e94a3c176734b019c1715b205981af4) | [Actions](https://apps.apple.com/app/actions/id1586435171) |
 
 
 ## Tools (Shortcuts)
